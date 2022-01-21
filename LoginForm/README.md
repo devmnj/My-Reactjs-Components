@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Hackathon](https://img.shields.io/badge/hackathon-JSU-orange.svg)](http://jvascriptsu.wordpress.com)
+[![Hackathon](https://img.shields.io/badge/hackathon-JSU-orange.svg)](http://javascriptsu.wordpress.com)
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
@@ -38,4 +38,4 @@ To use the component copy the component file to **component** directory and *log
  
 ## 🎉 Acknowledgments <a name = "acknowledgments"></a>
 
- The animation and CSS was daapted from codepen.
+ The animation and CSS was adapted from codepen.
