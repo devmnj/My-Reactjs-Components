@@ -1,5 +1,7 @@
 # Reusable Reactjs Components
 
+Needy Reactjs commponents !
+
 ## Table of Contents
 
 - [About](#about)
@@ -8,7 +10,7 @@
 
 ## About <a name = "about"></a>
 
-This repository contains a set of reusable reactjs compoents that may suitable for any React Project.
+This repository contains a set of reusable `Reactjs` compoents that may suitable for varios projects.
 
 ## Getting Started <a name = "getting_started"></a>
 
@@ -16,10 +18,10 @@ Each folder contains css and component file which need to be placed on relevent 
 
 ### Prerequisites
 
-Reactjs
-Nodejs
-VSCode [optional]
- 
+- Reactjs
+- Nodejs
+- VSCode [optional]
+
 ### Author blog  <a name = "about1"></a>
 
 [JSU](http://javascriptsu.wordpress.com)
