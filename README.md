@@ -1,6 +1,6 @@
 # Reusable Reactjs Components
 
-Needy Reactjs commponents !
+Needy Reactjs components !
 
 ## Table of Contents
 
