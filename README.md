@@ -1,6 +1,10 @@
 # Reusable Reactjs Components
 
-Needy Reactjs commponents !
+Needy Reactjs components !
+<p align="center">
+  <a href="" rel="noopener">
+ <img src="https://source.unsplash.com/random/900x600/?ui/" alt="Project logo"></a>
+</p>
 
 ## Table of Contents
 
@@ -10,11 +14,11 @@ Needy Reactjs commponents !
 
 ## About <a name = "about"></a>
 
-This repository contains a set of reusable `Reactjs` compoents that may suitable for varios projects.
+This repository contains a set of reusable `Reactjs` compoents that may suitable for various projects.
 
 ## Getting Started <a name = "getting_started"></a>
 
-Each folder contains css and component file which need to be placed on relevent folders in your project.
+Each folder contains css and component file which need to be placed on relevant folders in your project.
 
 ### Prerequisites
 
