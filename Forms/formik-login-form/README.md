@@ -29,7 +29,7 @@
 
 ## 🧐 How to use <a name = "how-to"></a>
 
-To use the component copy all of the component file to **component** directory and *module level css* to the **styles** folder.
+To use the component copy all of the component files to **component** directory and *module level css* to the **styles** folder.
 
 Then import the component. Also require to install the FontAwesome packages and icon libraries. Please not the `package.json` dependency 
 

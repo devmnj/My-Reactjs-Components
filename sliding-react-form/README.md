@@ -29,7 +29,7 @@
 
 ## 🧐 How to use <a name = "how-to"></a>
 
-To use the component copy all of the component file to **component** directory and *login.module.css* to the **styles** folder.
+To use the component copy all of the component fileas to **component** directory and *login.module.css* to the **styles** folder.
 
 #### Usage
 ```
