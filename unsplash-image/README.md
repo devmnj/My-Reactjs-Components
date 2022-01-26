@@ -1,9 +1,9 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="https://source.unsplash.com/random/900×500/?fruit" alt="Project logo"></a>
+ <img src="https://source.unsplash.com/random/400×250/?fruit" alt="Project logo"></a>
 </p>
 <h3 align="center">Unsplash Image Component</h3>
- 
+
 <div align="center">   
 
 [![Hackathon](https://img.shields.io/badge/hackathon-JSU-orange.svg)](http://javascriptsu.wordpress.com)
@@ -18,7 +18,7 @@
 <p align="center">  
 <b> A component made for fun, generating random images from Unsplash.com, with zero dependency. It can render child elements, so that it can be used to create quick heros.
 </p>
-   
+
 ## 📝 Table of Contents
 
 - [📝 Table of Contents](#-table-of-contents)
