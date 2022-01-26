@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="https://source.unsplash.com/random/400×250/?fruit" alt="Project logo"></a>
+ <img src="https://source.unsplash.com/random/250×250/?fruit" alt="Project logo"></a>
 </p>
 <h3 align="center">Unsplash Image Component</h3>
 
