@@ -19,7 +19,7 @@ This repository contains a set of reusable `Reactjs` compoents that may suitable
 
 Each folder contains css and component file which need to be placed on relevant folders in your project.
 
-### Prerequisites
+### Prerequisites 
 
 - Reactjs
 - Nodejs
