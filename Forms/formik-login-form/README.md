@@ -20,7 +20,7 @@
 <b>Formik React Login Form</b> is a react component for login requirements and it integrate form validation,Error management using Yup and  Formik library, also have a social section for social integration.
  
 </p>
-   <br> 
+   
 ## 📝 Table of Contents
 
 - [📝 Table of Contents](#-table-of-contents)
