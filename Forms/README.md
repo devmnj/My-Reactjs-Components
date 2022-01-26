@@ -4,7 +4,7 @@
  <img src="https://source.unsplash.com/random/900x600/?reactjs/" alt="Project logo"></a>
 </p>
 <h3 align="center">Form Components</h3>
-A collection of React ready to use `Form components` featuring validation and animation.
+A collection of React ready to use Form components featuring validation and animation.
 <br/>
 <div align="center">
 
