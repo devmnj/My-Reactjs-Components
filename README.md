@@ -1,13 +1,6 @@
 # Reusable Reactjs Components
 
 Needy Reactjs components !
-<<<<<<< HEAD
-<p align="center">
-  <a href="" rel="noopener">
- <img src="https://source.unsplash.com/random/900x600/?ui/" alt="Project logo"></a>
-</p>
-=======
->>>>>>> d3a9e4dc51c38a4f6136f498a3dfcf77f61a63f2
 
 ## Table of Contents
 

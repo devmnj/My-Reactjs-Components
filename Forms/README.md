@@ -5,6 +5,7 @@
 </p>
 <h3 align="center">Form Components</h3>
 A collection of React ready to use `Form components` featuring validation and animation.
+<br/>
 <div align="center">
 
 [![Hackathon](https://img.shields.io/badge/hackathon-JSU-orange.svg)](http://javascriptsu.wordpress.com)
