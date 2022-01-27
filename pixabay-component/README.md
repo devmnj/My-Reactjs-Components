@@ -5,7 +5,6 @@
 <h3 align="center">Pixabay Image Component</h3>
 
 <div align="center">   
-
 [![Hackathon](https://img.shields.io/badge/hackathon-JSU-orange.svg)](http://javascriptsu.wordpress.com)
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
@@ -14,22 +13,28 @@
 
 </div>
 
-
 <p align="center">  
-<b> A component made for fun, generating random images from Pixabay.com using API, with react-query which help to use cached data. It can render child elements, so that it can be used to create quick hero.
+  A component made for fun, generating random images from Pixabay.com using API, with react-query which help to use cached data. It can render child elements, so that it can be used to create quick hero.
 </p>
+
 
 ## 📝 Table of Contents
 
 - [📝 Table of Contents](#-table-of-contents)
+- [Dependencies](#dependencies)
 - [🧐 How to use <a name = "how-to"></a>](#-how-to-use-)
   - [Props](#props)
   - [Example](#example)
 - [🎉 Acknowledgments <a name = "acknowledgments"></a>](#-acknowledgments-)
 
+## Dependencies
+
+* react-query
+* pixabay API
+
 ## 🧐 How to use <a name = "how-to"></a>
 
-Install the dependecies by running
+Install the dependencies by running
 
 ```bash
 npm install
